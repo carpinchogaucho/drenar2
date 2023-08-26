@@ -1,0 +1,4 @@
+name: drenar2
+version: '${project.version}'
+main: me.lexo.Drenar2
+api-version: '1.19'
